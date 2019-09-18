@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abstraction</title>
+    <link>/</link>
+    <description>Recent content on Abstraction</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Sep 2019 23:54:48 -0400</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Development Environment Setup</title>
+      <link>/post/dev-env-setup/</link>
+      <pubDate>Mon, 09 Sep 2019 23:54:48 -0400</pubDate>
+      
+      <guid>/post/dev-env-setup/</guid>
+      <description>Text Editors/IDEs  Text Editors
+ Visual Studio Code (Cross Platform) Windows  Note: When working on Windows, you would need WSL or Cygwin for the gcc compiler Windows VS Code and WSL for C++: https://code.visualstudio.com/docs/cpp/config-wsl VS Code for Python: https://code.visualstudio.com/docs/languages/python  Sublime Text (Cross Platform) Note: Full-version is $80 https://www.sublimetext.com/ Atom (Cross Platform) Install: https://atom.io/ Emacs (Cross Platform) https://www.gnu.org/software/emacs/download.html Vim (Cross Platform) Windows: https://www.thegeekstuff.com/2009/12/vim-editor-for-windows/  IDEs
+ Visual Studio (Windows/MacOS) Install: https://visualstudio.</description>
+    </item>
+    
+    <item>
+      <title>Leadership</title>
+      <link>/leadership/</link>
+      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/leadership/</guid>
+      <description>Changes in 2019-2020 This year, we have tried to change how we do leadership in Abstraction. Of course, the core leadership to sustain the club will remain. However, we wanted a more modular non-core leadership for particular events. These one-off leaders will be able to use Abstraction&amp;rsquo;s system to lead events of their interest. By making this change, we want to increase student activity in Abstraction and empower students by giving the opportunity to lead and plan events.</description>
+    </item>
+    
+    <item>
+      <title>Calendar</title>
+      <link>/calendar/</link>
+      <pubDate>Sat, 07 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/calendar/</guid>
+      <description>Hi there My name is Radek and I&amp;rsquo;m the author of this theme. I made it to help you present your ideas easier.
+We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
+This theme is pretty basic and covers all of the essentials. All you have to do is start typing!</description>
+    </item>
+    
+    <item>
+      <title>Coke</title>
+      <link>/coke/</link>
+      <pubDate>Sat, 07 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/coke/</guid>
+      <description>Hi there My name is Radek and I&amp;rsquo;m the author of this theme. I made it to help you present your ideas easier.
+We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
+This theme is pretty basic and covers all of the essentials. All you have to do is start typing!</description>
+    </item>
+    
+    <item>
+      <title>Wiki</title>
+      <link>/wiki/</link>
+      <pubDate>Sat, 07 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/wiki/</guid>
+      <description>Hi there My name is Radek and I&amp;rsquo;m the author of this theme. I made it to help you present your ideas easier.
+We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
+This theme is pretty basic and covers all of the essentials. All you have to do is start typing!</description>
+    </item>
+    
+    <item>
+      <title>Showcase</title>
+      <link>/showcase/</link>
+      <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/showcase/</guid>
+      <description>Header 2 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. Donec quis dolor nec nunc mollis interdum vel in purus. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>What Is Abstraction? Abstraction is Calvin University&amp;rsquo;s Computer Science Club.
+New Abstraction 2019-2020 In recent years, there has been an effort to change Abstraction&amp;rsquo;s activity base from gaming and miscellaneous activities to more Computer Science related activities. This year, we will dedicate our activities to truly empower computing students.
+As our name suggests, we want to provide the &amp;ldquo;abstraction&amp;rdquo; for the increased number of computer science students of Calvin University.</description>
+    </item>
+    
+    <item>
+      <title>Archive</title>
+      <link>/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/archive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coming Soon</title>
+      <link>/coming_soon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/coming_soon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>Email ep34@students.calvin.edu (Ian&amp;rsquo;s Mail)
+Chat with Discord/IRC https://discord.gg/TCBVgaE</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Abstraction</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Abstraction</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Sep 2019 23:54:48 -0400</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Development Environment Setup</title>
+      <link>/post/dev-env-setup/</link>
+      <pubDate>Mon, 09 Sep 2019 23:54:48 -0400</pubDate>
+      
+      <guid>/post/dev-env-setup/</guid>
+      <description>Text Editors/IDEs  Text Editors
+ Visual Studio Code (Cross Platform) Windows  Note: When working on Windows, you would need WSL or Cygwin for the gcc compiler Windows VS Code and WSL for C++: https://code.visualstudio.com/docs/cpp/config-wsl VS Code for Python: https://code.visualstudio.com/docs/languages/python  Sublime Text (Cross Platform) Note: Full-version is $80 https://www.sublimetext.com/ Atom (Cross Platform) Install: https://atom.io/ Emacs (Cross Platform) https://www.gnu.org/software/emacs/download.html Vim (Cross Platform) Windows: https://www.thegeekstuff.com/2009/12/vim-editor-for-windows/  IDEs
+ Visual Studio (Windows/MacOS) Install: https://visualstudio.</description>
+    </item>
+    
+  </channel>
+</rss>

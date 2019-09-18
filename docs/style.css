@@ -1,0 +1,9 @@
+.avatar {
+        width: 100%;
+}
+
+.avatar img{
+        width: 50%;
+        margin: auto;
+        margin-top: 50px;
+}
